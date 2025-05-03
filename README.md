@@ -1,4 +1,4 @@
-# RealEstate Web App 🏡
+# Real Estate Web App 🏡
 
 An intuitive, responsive real estate web application that helps users discover rental and sale properties with ease. Featuring a clean design, property listings, detailed views, and a togglable dark mode for enhanced user experience.
 
